@@ -2,7 +2,7 @@
   "name": "react-full-header",
   "version": "1.0.0",
   "description": "A full header component created with React.",
-  "main": "dist/Main.js",
+  "main": "dist/Main.jsx",
   "scripts": {
     "build": "npm run clean && npm run babel && npm run minify",
     "babel": "./node_modules/.bin/babel src -d dist",
