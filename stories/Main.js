@@ -4,10 +4,10 @@ import { storiesOf } from '@storybook/react';
 
 storiesOf('React Full Header', module)
     .add('with title', () => (
-        <FullHeader title="TDD"/>
+        <FullHeader title="Hello World"/>
     ))
     .add('with title and subtitle', () => (
-        <FullHeader title="TDD" subtitle="Hello World"/>
+        <FullHeader title="Hello World" subtitle="Welcome to full header component"/>
     ))
     .add('with title, subtitle, bgColor', () => (
         <FullHeader
