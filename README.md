@@ -5,7 +5,7 @@
 
 ## Demo
 
-[Live examples](https://danilo.sales.github.io/react-full-header)
+[Live examples](https://danilosales.github.io/react-full-header/)
 
 ## Basic Usage
 
